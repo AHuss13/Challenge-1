@@ -6,7 +6,7 @@ The purpose of this project was to practice removing repetitive code, make it mo
 
 ## Usage
 
-![Horiseon Webpage Screenshot](../Challenge-1/Assets/01-html-css-git-homework-demo.png)
+![Horiseon Webpage Screenshot](./Assets/01-html-css-git-homework-demo.png)
 
 ## Credits
 
